@@ -169,7 +169,4 @@ This section is intentionally selective. It captures foundational temporal abstr
 Please follow [CONTRIBUTING.md](./CONTRIBUTING.md). Pull requests for missing papers, fixed venues, broken links, and code repositories are welcome.
 
 ## ⭐ Star History
-
-> Update `linhlpv/awesome_action_chunking` below after publishing the repository if the final GitHub slug is different.
-
 [![Star History Chart](https://api.star-history.com/svg?repos=linhlpv/awesome_action_chunking&type=Date)](https://star-history.com/#linhlpv/awesome_action_chunking&Date)
