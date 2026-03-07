@@ -1,14 +1,12 @@
 # Awesome Action Chunking in Reinforcement Learning
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-A curated list of papers on **action chunking**, **chunked control**, **action-sequence policies**, and **macro-actions** in reinforcement learning, offline RL, imitation learning, and robot learning.  If you find this repository helpful, please consider citing our survey and giving a ⭐!
+A curated list of papers on **action chunking**, **chunked control**, **action-sequence policies**, and **macro-actions** in reinforcement learning, offline RL, imitation learning, and robot learning.  If you find this repository helpful, please consider giving it a ⭐!
 
 This list was initialized on **March 7, 2026**. Accepted papers are organized by **year -> venue**. Preprints stay in **Preprints / Under Review** until an official venue acceptance is verified. The entries below were re-audited on **March 7, 2026** against official proceedings pages, OpenReview forum pages, arXiv records, and DOI landing pages.
 
-If you find this repository helpful, please consider giving it a star.
-
 Maintainer:
-- Linh Le
+- [Linh Le](https://linhlpv.github.io/) (A2I2, Deakin University)
 
 Please feel free to open an issue or submit a pull request by following [CONTRIBUTING.md](./CONTRIBUTING.md).
 
@@ -169,4 +167,5 @@ This section is intentionally selective. It captures foundational temporal abstr
 Please follow [CONTRIBUTING.md](./CONTRIBUTING.md). Pull requests for missing papers, fixed venues, broken links, and code repositories are welcome.
 
 ## ⭐ Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=linhlpv/awesome_action_chunking&type=Date)](https://star-history.com/#linhlpv/awesome_action_chunking&Date)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=linhlpv/awesome-action-chunking&type=Date)](https://star-history.com/#linhlpv/awesome-action-chunking&Date)
