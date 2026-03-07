@@ -16,7 +16,7 @@ Please feel free to open an issue or submit a pull request by following [CONTRIB
 @article{le2026actionchunking,
   title={Awesome Action Chunking Papers},
   author={Linh Le},
-  journal={https://github.com/linhlpv/awesome-action-chunking},
+  journal={https://github.com/linhlpv/awesome_action_chunking},
   year={2026}
 }
 ```
@@ -168,4 +168,4 @@ Please follow [CONTRIBUTING.md](./CONTRIBUTING.md). Pull requests for missing pa
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=linhlpv/awesome-action-chunking&type=Date)](https://star-history.com/#linhlpv/awesome-action-chunking&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=linhlpv/awesome_action_chunking&type=Date)](https://star-history.com/#linhlpv/awesome_action_chunking&Date)
